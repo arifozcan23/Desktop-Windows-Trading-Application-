@@ -1,0 +1,22 @@
+kullanıcı adı : zcanarif@gmail.com
+şifre : 181830
+
+
+
+
+Projenin setup ına "Veresiye Satis Otomasyonu SETUP" tıklayarak debug klasörünün içinden 
+ulaşabilirsiniz.
+
+Projenin database ini visual studioda oluşturdum.Visual studioda database e bakabilirsiniz. 
+Daha önce Mssql de oluşturmuştum. Ayrıca Mssqlde oluşturduğum veritabanını da paylaşıyorum. 
+
+Data Source=DESKTOP-20S2QFH\SQLEXPRESS;Initial Catalog=VeresiyeUrunSatis;Integrated Security=True
+
+
+
+
+
+
+ARİF ÖZCAN
+2005410240
+
